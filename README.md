@@ -1,4 +1,4 @@
-# AeroLab — Milestone 0: Visual Prototype
+# AeroLab
 
 Interactive 2D virtual wind tunnel. This milestone is the static interface
 foundation: toolbar, control sidebar, simulation viewport, and metrics panel,
